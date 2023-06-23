@@ -97,7 +97,7 @@ const MapScreen = props => {
               console.log('geo details lat', details?.geometry.location.lng);
             }}
             query={{
-              key: 'AIzaSyD2zOQdVbs_NJw1bW_xDz-eVyQgboj71hM',
+              key: 'YOUR_API_KEY',
               language: 'en',
             }}
           />
