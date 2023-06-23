@@ -1,0 +1,7 @@
+const USER_SEARCH_INFO = "USER_SEARCH_INFO";
+
+export {USER_SEARCH_INFO};
+
+
+
+

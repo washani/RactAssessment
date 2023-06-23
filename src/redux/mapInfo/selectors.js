@@ -1,0 +1,1 @@
+export const mapInfomationSelector = state => state.mapInfo.userSearchResults;
