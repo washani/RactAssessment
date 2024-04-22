@@ -1,3 +1,4 @@
-# RactAssessment
-# please do npm install and pod install
-# Please Replace "YOUR_API_KEY"
+##### Ract Sample Assessment
+##### Install and pod install
+##### Please do Replace "YOUR_API_KEY"
+
